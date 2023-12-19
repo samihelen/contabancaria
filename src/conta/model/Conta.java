@@ -1,6 +1,6 @@
 package conta.model;
 
-public class Conta {
+public abstract class Conta {
 	//Criação de variaveis que representam os atributos da classe
 	private int numero;
 	private int agencia;
